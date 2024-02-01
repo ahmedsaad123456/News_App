@@ -2,20 +2,6 @@
 
 This is a Flutter application with HTTP requests for displaying news articles from various categories. The app utilizes several Flutter packages for state management, network requests, and UI components.
 
-
-## Dependencies
-
-This project relies on the following dependencies:
-
-- `cupertino_icons`: Provides Cupertino (iOS-style) icons for your Flutter app.
-- `flutter_bloc`: Handles state management using the BLoC (Business Logic Component) pattern.
-- `bloc`: The core library for implementing the BLoC pattern.
-- `dio`: A powerful HTTP client for making network requests in Dart.
-- `conditional_builder_null_safety`: Simplifies conditional rendering of widgets.
-- `hexcolor`: Allows the use of hexadecimal color codes in Flutter.
-- `shared_preferences`: Provides a simple key-value store for storing app preferences locally.
-- `webview_flutter`: Enables embedding of web views within Flutter apps for displaying web content.
-
   
 ## Screens
 
@@ -31,6 +17,18 @@ This project relies on the following dependencies:
   
 <img src="https://github.com/ahmedsaad123456/News_App/assets/102562587/24ba5c23-e52b-491f-9ffa-c131270b4981" width="400">
 
+## Dependencies
+
+This project relies on the following dependencies:
+
+- `cupertino_icons`: Provides Cupertino (iOS-style) icons for your Flutter app.
+- `flutter_bloc`: Handles state management using the BLoC (Business Logic Component) pattern.
+- `bloc`: The core library for implementing the BLoC pattern.
+- `dio`: A powerful HTTP client for making network requests in Dart.
+- `conditional_builder_null_safety`: Simplifies conditional rendering of widgets.
+- `hexcolor`: Allows the use of hexadecimal color codes in Flutter.
+- `shared_preferences`: Provides a simple key-value store for storing app preferences locally.
+- `webview_flutter`: Enables embedding of web views within Flutter apps for displaying web content.
 
 ## Usage
 
